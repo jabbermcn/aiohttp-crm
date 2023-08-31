@@ -14,3 +14,5 @@ multidict==6.0.4
 packaging==23.1
 webargs==5.5.3
 yarl==1.9.2
+
+PyYAML~=6.0.1
